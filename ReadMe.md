@@ -1,5 +1,7 @@
 ### Breach: A Browser for the HTML5 Era
 
+[![Join the chat at https://gitter.im/ockang/breach_core](https://badges.gitter.im/ockang/breach_core.svg)](https://gitter.im/ockang/breach_core?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 **Modular** 
 Everything in the browser is a module, a web-app running in its own process.
 Construct your own browsing experience by selecting the right modules for you.
